@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kireni
 - 👀 I’m interested in ...tech
 - 🌱 I’m currently learning ...data science
-- 💞️ I’m looking to collaborate on ...in any project or start up
+- 💞️ I’m looking to collaborate on ...any project or start up
 - 📫 How to reach me ...kirenimatthew@gmail.com
 
 <!---
